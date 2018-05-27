@@ -1,0 +1,12 @@
+[package]
+name = "declarity-rs"
+version = "0.1.0"
+authors = ["Broch Stilley <brochington@gmail.com>"]
+
+[lib]
+crate-type= ["cdylib"]
+
+[workspace]
+
+[dependencies]
+declarity = { path = "declarity" }

@@ -1,0 +1,11 @@
+[[package]]
+name = "declarity"
+version = "0.1.0"
+
+[[package]]
+name = "declarity-rs"
+version = "0.1.0"
+dependencies = [
+ "declarity 0.1.0",
+]
+

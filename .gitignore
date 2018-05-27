@@ -1,0 +1,4 @@
+/target
+**/*.rs.bk
+/server/node_modules
+/server/static/declarity_rs.wasm

@@ -1,0 +1,6 @@
+[package]
+name = "declarity"
+version = "0.1.0"
+authors = ["Broch Stilley <brochington@gmail.com>"]
+
+[dependencies]
