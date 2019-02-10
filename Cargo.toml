@@ -2,11 +2,6 @@
 name = "declarity-rs"
 version = "0.1.0"
 authors = ["Broch Stilley <brochington@gmail.com>"]
-
-[lib]
-crate-type= ["cdylib"]
-
-[workspace]
+edition = "2018"
 
 [dependencies]
-declarity = { path = "declarity" }
